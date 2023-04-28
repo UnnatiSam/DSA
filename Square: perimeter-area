@@ -1,0 +1,12 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	int r;
+	cin>>r;
+	float area=r*r;
+	int perimeter=4*r;
+	cout<<area<<endl;
+	cout<<perimeter;
+	return 0;
+}
